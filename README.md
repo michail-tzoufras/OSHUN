@@ -6,4 +6,4 @@ _OSHUN_ is a Vlasov-Fokker-Planck code _OSHUN_ between 2008-2011 as a post-doc w
 
 In this repository, under OSHUN-1 you can find the version of the code used for the latter of the two papers. Under OSHUN-2 is the version I was working on when I left UCLA in 2013.
 
-Archis Joglekar recently (2018) published a <a href="https://iopscience.iop.org/article/10.1088/1361-6587/aab978"> PPCF paper</a> on the validation of OSHUN in various collisional and collisionless scenarios where VFP codes.
+Archis Joglekar recently (2018) published a <a href="https://iopscience.iop.org/article/10.1088/1361-6587/aab978"> PPCF paper</a> on the validation of OSHUN in various collisional and collisionless scenarios.
